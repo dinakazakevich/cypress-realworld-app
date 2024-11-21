@@ -115,7 +115,7 @@ yarn dev
 yarn cypress:open
 ```
 
-> 🚩 **Note**
+> 🚩 **Note Test**
 >
 > If you have changed the default ports, then you need to update Cypress configuration file (`cypress.config.ts`) locally.
 > There are three properties that you need to update in `cypress.config.ts`: `e2e.baseUrl`, `env.apiUrl`, and `env.url`.
